@@ -1,0 +1,11 @@
+{
+  "name": "oid",
+  "version": "1.0.0",
+  "description": "Generate a random ObjectID",
+  "bin": {
+    "oid": "./bin/oid.js"
+  },
+  "keywords": [],
+  "author": "Kirby Kohlmorgen <kirbykohlmorgen@gmail.com>",
+  "license": "MIT"
+}
