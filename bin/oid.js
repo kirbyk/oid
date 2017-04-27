@@ -7,4 +7,4 @@ var objectId = function() {
   }).toLowerCase();
 };
 
-console.log(objectId());
+process.stdout.write(objectId());
